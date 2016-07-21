@@ -1,1 +1,1 @@
-nothing to read.
+Menu generator is a simple utility to simply make console menu 
