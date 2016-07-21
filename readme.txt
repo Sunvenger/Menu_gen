@@ -1,1 +1,1 @@
-Menu generator is a simple utility to simply make console menu 
+Menu generator is a simple utility to simply make the console menu 
